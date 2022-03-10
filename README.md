@@ -55,12 +55,12 @@ const magic = new Magic("Paste yor PUBLISHABLE_API_KEY");
 	}
 ];
 ```
-- Paste the `Contract ABI` in above code which is loacted in `line no.18` in `index.js` file.
+- Paste the `Contract ABI` in above code which is loacted in `line no.18` in `index.html` file.
 - Get Deployed Contract address.
 ```
   let contractAddress = "Paste your deployed contract Address";
 ```
-- Paste the `Contract Address` in above code which is loacted in `index.js` file.
+- Paste the `Contract Address` in above code which is loacted in `index.html` file.
 ## Getting started 📖
 
 📁 Create a new folder in VS code.  

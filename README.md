@@ -10,7 +10,7 @@
 ```
 const magic = new Magic("Paste yor PUBLISHABLE_API_KEY");
 ```
-- Paste the `PUBLISHABLE_API_KEY` in above code which is loacted in `line no.13` in `index.js` file.
+- Paste the `PUBLISHABLE_API_KEY` in above code which is loacted in `line no.13` in `index.html` file.
 - Get contract `ABI` from `REMIX`
 ```
      var contractABI = [
